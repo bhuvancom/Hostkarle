@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hostkarle</string>
+    <string name="thank_you">THANK YOU</string>
+    <string name="exit">EXIT</string>
+    <string name="mail">Mail me : support@hostkarle.com</string>
+    <string name="contact">Contact : 7435052300 </string>
+    <string name="image_logo">Image logo</string>
+</resources>
